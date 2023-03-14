@@ -6,11 +6,11 @@
       Made by
       <a
         class="link"
-        href="https://leoku.top"
+        href="https://wuxingzzz.top"
         target="_blank"
         rel="nofollow noopener noreferrer"
       >
-        LeoKu
+        WXZ
       </a>
     </div>
 
